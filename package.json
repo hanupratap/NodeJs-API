@@ -1,0 +1,16 @@
+{
+  "name": "my_server",
+  "version": "1.0.0",
+  "description": "Node backend",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hanupratap Singh Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {}
+}
